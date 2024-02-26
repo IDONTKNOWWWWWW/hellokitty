@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/assets/images/R.jpeg");
+    background-repeat: repeat;
+    background-size: 300px;
+}
+
+#img img{
+    width: 400px;
+}
+
+#container {
+    margin-top: 100px;
+}
+
+#Calculadora{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(223, 169, 209);
+    
+}
